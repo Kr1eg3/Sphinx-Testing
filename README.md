@@ -1,2 +1,2 @@
 # Sphinx-Testing
-trying sphinx
+Пытаюсь разобраться что тут вообще происходит
